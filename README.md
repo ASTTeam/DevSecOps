@@ -8,6 +8,7 @@
 - [02-DevSecOps书籍]()
 - [03-DevSecOps工具]()
 - [04-DevSecOps产品]()
+- [05-DevSecOps职位]()
 - [05-DevSecOps老师]()
 
 ## 01-DevSecOps资源
@@ -38,12 +39,14 @@
 
 ## 03-DevSecOps工具
 
+- SonarQube
+- Fortify
+- Checkmarx
 - TwistLock
 - Sysdig
 - Anchore
 - JMeter
 - JUnit
-- SonarQube
 
 ## 04-DevSecOps产品
 
@@ -56,4 +59,8 @@
 - 开源网安：https://www.seczone.cn
 - 嘉为蓝鲸：https://www.canway.net
 
-## 05-DevSecOps老师
+## 05-DevSecOps岗位
+
+- [PingCAP-DevSecOps 安全专家](https://careers.pingcap.com/apply/pingcap/39950/#/job/3a7c73a4-cbd3-4381-bd68-8e5291710cf8)
+
+## 06-DevSecOps老师
