@@ -1,6 +1,6 @@
 # DevSecOps-开发和安全和运营
 
-![DevSecOps](https://socialify.git.ci/DevSecOpsTeam/DevSecOps/image?description=1&font=Inter&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
+![DevSecOps](https://socialify.git.ci/ASTTeam/DevSecOps/image?description=1&font=Inter&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
 
 本项目用来收集整理学习DevSecOps相关内容，包括DevSecOps的理念产品以及衍生的工具思路等。包括开源安全、供应链安全、云原生安全等细分领域。DevSecOps是一种方法，是将开发和安全和运营紧密结合起来的思想。DevSecOps-Software development (Dev) and Security (Sec) and IT operations (Ops).
 
@@ -103,6 +103,7 @@
 - Anchore
 - JMeter
 - JUnit
+
 - [ ] https://github.com/infobyte/faraday
 - [ ] https://github.com/tenable/terrascan
 - [ ] https://github.com/bunkerity/bunkerweb
@@ -129,4 +130,4 @@
 
 ## 06-DevSecOps老师
 
-![Stargazers over time](https://starchart.cc//DevSecOpsTeam/DevSecOps.svg)
+![Stargazers over time](https://starchart.cc//ASTTeam/DevSecOps.svg)
