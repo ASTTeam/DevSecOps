@@ -19,7 +19,6 @@
 - https://github.com/search?q=devsecops
 
 一、基础资源
-
 - [ ] https://github.com/sottlmarek/DevSecOps
 - [ ] https://github.com/DefectDojo/django-DefectDojo
 - [ ] https://github.com/sidd-harth/kubernetes-devops-security
@@ -104,7 +103,6 @@
 - Anchore
 - JMeter
 - JUnit
-
 - [ ] https://github.com/infobyte/faraday
 - [ ] https://github.com/tenable/terrascan
 - [ ] https://github.com/bunkerity/bunkerweb
