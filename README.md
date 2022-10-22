@@ -87,23 +87,28 @@
 
 ## 02-DevSecOps书籍
 
+一、中文书籍
 - [ ] [《DevSecOps敏捷安全》](https://item.jd.com/13272303.html)@子芽
 - [ ] [《DevSecOps实战》](https://item.jd.com/10041556084739.html)@周纪海等著
+- [ ] https://github.com/6mile/DevSecOps-Playbook
+
+二、英文书籍
 - [ ] [《DevSecOps》](https://item.jd.com/10028188284125.html)@Glenn Wilson
 - [ ] [《Learning Devsecops》](https://item.jd.com/10040874594859.html)@Ribeiro
-- [ ] https://github.com/6mile/DevSecOps-Playbook
 
 ## 03-DevSecOps工具
 
-- SonarQube
-- Fortify
-- Checkmarx
-- TwistLock
-- Sysdig
-- Anchore
-- JMeter
-- JUnit
+本部分主要关注DevSecOps中的Sec类工具，其中包括开源工具商业产品等。不仅是SAST工具！
 
+一、优秀工具
+- https://github.com/ASTTeam/Fortify
+- https://github.com/ASTTeam/SonarQube
+- https://github.com/ASTTeam/Checkmarx
+- https://github.com/ASTTeam/CodeQL
+- https://github.com/ASTTeam/Semgrep
+- https://github.com/ASTTeam/BlackDuck
+
+二、开源工具
 - [ ] https://github.com/infobyte/faraday
 - [ ] https://github.com/tenable/terrascan
 - [ ] https://github.com/bunkerity/bunkerweb
@@ -112,6 +117,13 @@
 - [ ] https://github.com/Checkmarx/kics
 - [ ] https://github.com/lunasec-io/lunasec
 - [ ] https://github.com/GitGuardian/ggshield
+
+三、其他工具
+- TwistLock
+- Sysdig
+- Anchore
+- JMeter
+- JUnit
 
 ## 04-DevSecOps产品
 
