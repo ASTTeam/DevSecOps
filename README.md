@@ -89,7 +89,7 @@
 
 一、中文书籍
 - [ ] [《DevSecOps敏捷安全》](https://item.jd.com/13272303.html)@子芽
-- [x] [《DevSecOps实战》](https://item.jd.com/13016425.html)@周纪海等著#10%
+- [x] [《DevSecOps实战》](https://item.jd.com/13016425.html)@周纪海等著#50%
 
 二、英文书籍
 - [ ] [《DevSecOps》](https://item.jd.com/10028188284125.html)@Glenn Wilson
@@ -127,11 +127,6 @@
 - [ ] https://github.com/Checkmarx/kics
 - [ ] https://github.com/lunasec-io/lunasec
 - [ ] https://github.com/GitGuardian/ggshield
-- TwistLock
-- Sysdig
-- Anchore
-- JMeter
-- JUnit
 
 ## 04-DevSecOps产品
 
