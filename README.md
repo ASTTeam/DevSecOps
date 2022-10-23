@@ -2,7 +2,7 @@
 
 ![DevSecOps](https://socialify.git.ci/ASTTeam/DevSecOps/image?description=1&font=Inter&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
 
-本项目用来收集整理学习DevSecOps相关内容，包括DevSecOps的理念产品以及衍生的工具思路等。包括开源安全、供应链安全、云原生安全等细分领域。DevSecOps是一种方法，是将开发和安全和运营紧密结合起来的思想。DevSecOps-Software development (Dev) and Security (Sec) and IT operations (Ops).
+本项目用来收集整理学习DevSecOps相关内容，包括DevSecOps的理念产品以及衍生的工具思路等。包括开源安全、供应链安全、云原生安全等细分领域。DevSecOps是一种方法，是将开发和安全和运营紧密结合起来的思想。DevSevOps是下一代SDLC，更是下一代DevOps！DevSecOps-Software development (Dev) and Security (Sec) and IT operations (Ops).
 
 本项目创建于2022年10月20日，最近的一次更新时间为2022年10月22日。作者：[0e0w](https://github.com/0e0w/DevOps)
 
@@ -89,18 +89,19 @@
 
 一、中文书籍
 - [ ] [《DevSecOps敏捷安全》](https://item.jd.com/13272303.html)@子芽
-- [ ] [《DevSecOps实战》](https://item.jd.com/10041556084739.html)@周纪海等著
-- [ ] https://github.com/6mile/DevSecOps-Playbook
+- [x] [《DevSecOps实战》](https://item.jd.com/13016425.html)@周纪海等著#10%
 
 二、英文书籍
 - [ ] [《DevSecOps》](https://item.jd.com/10028188284125.html)@Glenn Wilson
 - [ ] [《Learning Devsecops》](https://item.jd.com/10040874594859.html)@Ribeiro
+- [ ] https://github.com/6mile/DevSecOps-Playbook
 
 ## 03-DevSecOps工具
 
 本部分主要关注DevSecOps中的Sec类工具，其中包括开源工具商业产品等。不仅是SAST工具！
 
-一、优秀工具
+一、SAST
+- https://github.com/ASTTeam/SAST
 - https://github.com/ASTTeam/Fortify
 - https://github.com/ASTTeam/SonarQube
 - https://github.com/ASTTeam/Checkmarx
@@ -108,7 +109,16 @@
 - https://github.com/ASTTeam/Semgrep
 - https://github.com/ASTTeam/BlackDuck
 
-二、开源工具
+二、DAST
+- https://github.com/ASTTeam/DAST
+
+三、IAST
+- https://github.com/ASTTeam/IAST
+
+四、SCA
+- https://github.com/ASTTeam/SCA
+
+五、Others
 - [ ] https://github.com/infobyte/faraday
 - [ ] https://github.com/tenable/terrascan
 - [ ] https://github.com/bunkerity/bunkerweb
@@ -117,8 +127,6 @@
 - [ ] https://github.com/Checkmarx/kics
 - [ ] https://github.com/lunasec-io/lunasec
 - [ ] https://github.com/GitGuardian/ggshield
-
-三、其他工具
 - TwistLock
 - Sysdig
 - Anchore
@@ -135,6 +143,7 @@
 - 龙智：https://www.shdsd.com
 - 开源网安：https://www.seczone.cn
 - 嘉为蓝鲸：https://www.canway.net
+- https://www.microfocus.com/zh-cn/devsecops
 
 ## 05-DevSecOps岗位
 
