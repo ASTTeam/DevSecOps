@@ -4,7 +4,7 @@
 
 本项目用来收集整理学习DevSecOps相关内容，包括DevSecOps的理念产品以及衍生的工具思路等。包括开源安全、供应链安全、云原生安全等细分领域。当安全是所有 DevOps 的工作重心时，这便是DevSecOps。DevSecOps是一种方法，是将开发和安全和运营紧密结合起来的思想。DevSecOps-Software development (Dev) and Security (Sec) and IT operations (Ops).
 
-本项目创建于2022年10月20日，最近的一次更新时间为2022年10月27日。作者：[0e0w](https://github.com/0e0w/DevOps)
+本项目创建于2022年10月20日，最近的一次更新时间为2022年11月01日。作者：[0e0w](https://github.com/0e0w/DevOps)
 
 - [01-DevSecOps资源]()
 - [02-DevSecOps书籍]()
@@ -84,6 +84,7 @@
 - [ ] https://github.com/defenseunicorns/zarf
 - [ ] https://github.com/rcarrata/devsecops-demo
 - [ ] https://github.com/fluidattacks/makes
+- [ ] https://github.com/cider-security-research/cicd-goat
 
 ## 02-DevSecOps书籍
 
